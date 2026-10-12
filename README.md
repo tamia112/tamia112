@@ -55,7 +55,7 @@ I am a passionate Software Developer with hands-on experience in system developm
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: tamiamwandu472@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: mwandutamia@gmail.com  
+- 💼 https://www.linkedin.com/in/tamia-mwandu-6b941330b
 
 
