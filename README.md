@@ -89,11 +89,7 @@ ICT system maintenance and administration, troubleshooting, data backup, records
 
 ---
 
-## 📊 GitHub Stats
 
-![Tamia's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamia112&show_icons=true&hide_border=true&count_private=true)
-
----
 
 ## 📫 Connect With Me
 
