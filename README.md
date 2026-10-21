@@ -47,17 +47,7 @@ I build LLM applications and full-stack web apps. At CogniX I work on RAG pipeli
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
 
-## 💼 Experience
-
-**Software Engineer & AI Engineer, CogniX** (Dec 2025 – Present)
-RAG pipelines, synthetic data generation, ground-truth evaluation, LoRA fine-tuning and AWS Bedrock inference in production.
-
-**Software Developer, BRS Kenya** (May – Jul 2026)
-ICT system maintenance and administration, troubleshooting, data backup, records management and documentation within an enterprise technology team.
-
----
 
 ## 📌 Featured Projects
 
