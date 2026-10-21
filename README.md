@@ -55,7 +55,7 @@ I build LLM applications and full-stack web apps. At CogniX I work on RAG pipeli
 |---|---|---|
 | 🤝 **AidBridge** | Donation and aid-management platform with role-based dashboards for beneficiaries, donors and admins, live chat, an audit trail, and a Python AI service that screens requests for fraud | React, Node.js, Express, MongoDB, Socket.io, Python |
 | 🏠 **Land & Housing Support Platform** | Connects people to housing and land support resources, with a module for uploading datasets, running AI-driven analysis and generating dashboards | Full-stack web, Python |
-| 📊 **Data Processing Web App** | Upload raw data, analyse it and visualise the results | Python, web |
+| 📊 **LinkedIn Post Generator** | AI-powered LinkedIn post generator that turns a short idea into three ready-to-publish posts with custom tone, length and rewrite options.| Python, Streamlit, Groq API (Llama models), Anthropic Claude API (optional), Ollama (local option), Prompt Engineering, HTML/CSS, Git/GitHub, Streamlit Community Cloud|
 | 📚 **Library Management System** | Desktop application for book registration, issuing, returns and records | Java |
 
 ---
